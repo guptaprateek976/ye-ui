@@ -50,7 +50,7 @@
     "@storybook/addon-essentials": "^6.5.14",
     "@storybook/addon-interactions": "^6.5.14",
     "@storybook/addon-jest": "^6.5.14",
-    "@storybook/addon-links": "^6.5.14",
+    "@storybook/addon-links": "^6.5.15",
     "@storybook/addon-postcss": "^2.0.0",
     "@storybook/addon-toolbars": "^6.5.14",
     "@storybook/builder-webpack5": "^6.5.14",
